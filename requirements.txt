@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+pypdf
+langchain-core
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
+chromadb
